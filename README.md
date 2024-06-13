@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**K-Boomika/K-Boomika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Boomika Karuppaiah, a passionate software engineer actively looking for full-time roles. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Master of Science in Computer Science from The George Washington University
+- 👩‍💻 Currently working as a Graduate Teaching Assistant
+- 💼 Experienced in software engineering, development, and testing
+- 🌱 Constantly learning and exploring new technologies
+
+## Skills
+
+- Programming Languages: C++, Python, Java, C#, Kotlin
+- Web Development: HTML, CSS, JavaScript, Vue.js
+- Databases: SQL, MongoDB
+- Tools & Technologies: AWS, Unix/Linux Scripting, Robot Framework, JIRA, Git, Jenkins, Agile
+
+## Get in Touch
+
+- LinkedIn: [Boomika Karuppaiah](https://www.linkedin.com/in/boomikakaruppaiah/)
+- Email: k.boomika95@gmail.com
+- Phone: +15716661705
+
+I am actively seeking full-time software engineer roles. Feel free to reach out! Let's connect and collaborate on exciting projects.
