@@ -18,7 +18,7 @@ I'm Boomika Karuppaiah, a passionate software engineer actively looking for full
 
 ## Get in Touch
 
-- LinkedIn: [Boomika Karuppaiah](https://www.linkedin.com/in/boomikakaruppaiah/)
+- LinkedIn: [Boomika Karuppaiah](https://www.linkedin.com/in/boomika-karuppaiah/)
 - Email: k.boomika95@gmail.com
 - Phone: +15716661705
 
